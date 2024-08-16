@@ -1,7 +1,7 @@
 # motion_capture
 
 ## PROJECT TITLE: Exploring Natural Fitness Instincts: Motion Capture, dumbbells and biceps curls
-- MOST important graphs of the paper can be found in the notebook "data_collection.ipynb"
+- Important graphs of the paper can be found in the notebook "data_collection.ipynb"
 
 
 ### ABSTRACT
@@ -14,7 +14,7 @@ During the practical phase, participants did 12 bicep curls with each arm using 
 
 The data shows that there are differences between the participants in various categories such as duration of execution, range of motion and previous weight training experience. Potential improvements are also identified.
 
-Keywords: motion capture, biceps, exercise, range of motion, weight training
+**Keywords:** motion capture, biceps, exercise, range of motion, weight training
 
 
 ### NOTE:
