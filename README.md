@@ -1,10 +1,10 @@
 # motion_capture
 
-PROJECT TITLE:
-Exploring Natural Fitness Instincts: Motion Capture, dumbbells and biceps curls
+## PROJECT TITLE: Exploring Natural Fitness Instincts: Motion Capture, dumbbells and biceps curls
 - MOST important graphs of the paper can be found in the notebook "data_collection.ipynb"
 
-ABSTRACT
+
+### ABSTRACT
 This paper and the experiment carried out deal with the research question:
 
 How does the natural use of dumbbells, especially in relation to the form and technique during biceps curls, vary among individuals?
@@ -17,7 +17,6 @@ The data shows that there are differences between the participants in various ca
 Keywords: motion capture, biceps, exercise, range of motion, weight training
 
 
-
-NOTE:
+### NOTE:
 - The final paper and poster are available in the folder "poster_paper".
 - More detailed analyses of the data can be found in the "data" folder and the corresponding notebooks. 
