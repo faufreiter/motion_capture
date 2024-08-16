@@ -7,7 +7,8 @@
 ### ABSTRACT
 This paper and the experiment carried out deal with the research question:
 
-How does the natural use of dumbbells, especially in relation to the form and technique during biceps curls, vary among individuals?
+*How does the natural use of dumbbells, especially in relation to the form and technique during biceps curls, vary among individuals?*
+
 A group of 7 participants with different previous experiences and fitness levels were observed. Data on these areas was collected beforehand using a questionnaire.
 
 During the practical phase, participants did 12 bicep curls with each arm using a 5kg dumbbell without prior technique instructions. The exercises were recorded with a Qualisys motion capture system, using 3 markers on each arm and 2 markers on the dumbbell.
