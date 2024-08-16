@@ -2,11 +2,9 @@
 
 PROJECT TITLE:
 Exploring Natural Fitness Instincts: Motion Capture, dumbbells and biceps curls
-
-MOST important graphs of the paper can be found in the notebook "data_collection.ipynb"
+- MOST important graphs of the paper can be found in the notebook "data_collection.ipynb"
 
 ABSTRACT
-
 This paper and the experiment carried out deal with the research question:
 
 How does the natural use of dumbbells, especially in relation to the form and technique during biceps curls, vary among individuals?
